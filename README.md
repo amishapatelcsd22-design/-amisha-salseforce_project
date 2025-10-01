@@ -2,8 +2,11 @@
 A Food Delivery Problem Solving project designed to streamline order placement, delivery assignment, and real-time tracking. It focuses on improving customer satisfaction, reducing delays, and managing stakeholders like restaurants, customers, and delivery partners.
 
 #Docs file link-
-https://docs.google.com/document/d/1M_Av7CQVdLFEBG3K-2w3_pVphIOM1mNxm3KuIZeaEIw/edit?tab=t.nh6dow6n11ov
+
+file:///C:/Users/amisha%20patel/Downloads/Phase%202_%20Org%20Setup%20&%20Configuration%20(3).pdf
+
 #Demo Video Link-
+
 https://drive.google.com/file/d/1KlUjd4uSLd45ZCxqSiiIXoOhjOYpAcp1/view?usp=drivesdk
 
 Problem Understanding & Industry Analysis
